@@ -15,3 +15,13 @@ No required libraries or external dependencies needed to run this project.
 1) Download the project zip file to your computer and unzip it, or clone this repository.
 
 2) From the root/project directory, open temp_conversion.html with your favorite browser.
+
+### Website Illustrations
+
+#### Temperature Conversion Site Screenshots
+
+![](/images/temp_conv_site.png)
+
+![](/images/FtoC_conv.png)
+
+![](/images/CtoF_conv.png)
