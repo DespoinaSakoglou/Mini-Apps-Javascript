@@ -6,7 +6,7 @@ Mini projects using Javascript.
 
 ### Description
 Mini apps using HTML, CSS and Javascript.
-1) The Temperature Conversion Site Project creates a website where users can convert temperatures from Fahrenheit to Celcius and vice versa.
+- The Temperature Conversion Site Project creates a website where users can convert temperatures from Fahrenheit to Celcius and vice versa.
 
 ### Required Libraries and Dependencies
 No required libraries or external dependencies needed to run this project.
