@@ -13,4 +13,5 @@ No required libraries or external dependencies needed to run this project.
 
 ### How to Run the Projects
 1)Download the project zip file to your computer and unzip it, or clone this repository.
+
 2) From the root/project directory, open temp_conversion.html with your favorite browser.
