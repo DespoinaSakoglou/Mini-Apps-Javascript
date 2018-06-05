@@ -1,0 +1,40 @@
+<!-- A temperature conversion website.
+	============================================================
+	It converts Fahrenheit to Celcius and Celcius to Fahrenheit.  
+
+	temp_conversion.html file contains head and body of website 
+	and uses CSS and JavaScript to produce a conversion website.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<!-- Unicode -->
+  	<meta charset="UTF-8">
+  	<!-- Page title -->
+  	<title>Temperature Conversion Site</title>
+  	<!-- import temp_conversion.css file -->
+  	<link rel="stylesheet" type="text/css" href="css/temp_conversion.css">
+  	<!-- JavaScript external file -->
+  	<script src="js/temp_conversion.js"></script>
+</head>
+
+<!-- Page content -->
+<body style="background-image:url(images/Temperature_gauge.jpg)">
+	
+	<h1>Convert Fahrenheit to Celcius</h1>
+
+	<form>
+		<input type="text" class="js-one" value="Fahrenheit"/>
+		<input type="button" class="js-button1" onclick="FtoC()" value="Convert"/>
+	</form>
+
+	<h1>Convert Celcius to Fahrenheit</h1>
+
+	<form>
+		<input type="text" class="js-two" value="Celcius"/>
+		<input type="button" class="js-button2" onclick="CtoF()" value="Convert"/>
+	</form>
+	
+</body>
+</html>

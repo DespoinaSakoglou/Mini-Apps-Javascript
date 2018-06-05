@@ -1,0 +1,13 @@
+
+body {
+	background: center center fixed;
+	background-attachment: fixed;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-shadow: 0 0 10px #000;
+	margin: 0 auto;
+	text-align:right; 
+	width:1400px;
+}
